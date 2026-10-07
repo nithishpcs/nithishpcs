@@ -1,4 +1,4 @@
-# Hi there, I'm [NITHISH P]! 👋
+# Hi there, I'm NITHISH P! 👋
 
 I am a **1st-year Computer Science & Engineering student** passionate about learning new technologies and solving problems.
 
