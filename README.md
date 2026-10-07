@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [NITHISH P]! 👋
 
 I am a **1st-year Computer Science & Engineering student** passionate about learning new technologies and solving problems.
 
@@ -8,5 +8,5 @@ I am a **1st-year Computer Science & Engineering student** passionate about lear
 - 🌱 Goal for this year: **Build strong coding foundations**
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** HTML, CSS, JavaScript (or whatever you are learning)
+- **Languages:** C, C++ , JavaScript
 - **Tools:** VS Code, Git, GitHub
